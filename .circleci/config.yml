@@ -77,7 +77,7 @@ jobs:
           command: npm run build:psql
       - run:
           name: Insert into database
-          command: psql -h localhost -U wrkout -f exercises-psql.sql
+          command: psql -h localhost -U wrkout -d exercises-db -f exercises-psql.sql
 
 workflows:
   test:
