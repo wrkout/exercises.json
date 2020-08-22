@@ -35,11 +35,11 @@ jobs:
           root: .
           paths: .
   lint:
-     <<: *js_defaults
+    <<: *js_defaults
     steps:
       - attach_workspace:
           at: .
-      - run: 
+      - run:
           name: Running Linter
           command: npm run lint
   tests:
@@ -59,6 +59,23 @@ jobs:
           path: test-results
       - store_artifacts:
           path: .jest/coverage
+  postgresql-tests:
+    <<: *js_defaults
+    docker:
+      - image: circleci/postgres:12.4-alpine
+        environment:
+          POSTGRES_USER: wrkout
+          POSTGRES_DB: exercises-db
+    steps:
+      - attach_workspace:
+          at: .
+      - run: sudo apt install -y postgresql-client || true
+      - run:
+          name: Generate exercises-psql.sql
+          command: npm run build:psql
+      - run:
+          name: Insert into database
+          command: psql -h localhost -U wrkout -f exercises-psql.sql
 
 workflows:
   test-publish-release:
@@ -68,5 +85,8 @@ workflows:
           requires:
             - prepare_environment
       - tests:
+          requires:
+            - prepare_environment
+      - postgresql-tests:
           requires:
             - prepare_environment

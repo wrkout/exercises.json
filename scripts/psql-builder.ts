@@ -6,7 +6,6 @@ import { resolve } from "path";
 import { v4 as uuid } from "uuid";
 import knex from "knex";
 import { Exercise } from "../types/exercise";
-import { table } from "console";
 
 const psql = knex({ client: "pg" });
 
