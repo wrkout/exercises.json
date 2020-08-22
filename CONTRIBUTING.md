@@ -6,9 +6,9 @@ The following is some guidelines on contributing to **exercises-json**. These ar
 
 #### Adding/Changing An Exercise
 
-An exercise can be modified or added by creating an PR and filling [in one of the templates](https://github.com/wrkout/exercises.json/master/.github/PULL_REQUEST_TEMPLATE).
+An exercise can be modified or added by creating an PR and filling [in one of the templates](https://github.com/wrkout/exercises.json/tree/master/.github/PULL_REQUEST_TEMPLATE).
 
-Please make sure you are familar with the [Exercise Type](https://github.com/wrkout/exercises.json/master/types/exercise.d.ts) interface for all possible fields on an exercise.
+Please make sure you are familar with the [Exercise Type](https://github.com/wrkout/exercises.json/blob/master/types/exercise.d.ts) interface for all possible fields on an exercise.
 
 #### Exercise Naming Convention
 
@@ -32,11 +32,11 @@ Bench Press (Cable)
 
 Sometimes the varying names for the same exercise are so widly different, that it makes sense to keep both. We can do this by defining an **alias** for the exercise.
 
-If you look at the [Exercise Type](https://github.com/wrkout/exercises.json/master/types/exercise.d.ts) file you will see the interface of an exercise supports an array of aliases.
+If you look at the [Exercise Type](https://github.com/wrkout/exercises.json/blob/master/types/exercise.d.ts) file you will see the interface of an exercise supports an array of aliases.
 
 #### Exercise Measurements
 
-Exercises are more useful when you know how to measure them. The [Measure Type](https://github.com/wrkout/exercises.json/master/types/measure.d.ts) file contains the interface for how you would possible the results of performing an exercise.
+Exercises are more useful when you know how to measure them. The [Measure Type](https://github.com/wrkout/exercises.json/blob/master/types/measure.d.ts) file contains the interface for how you would possible the results of performing an exercise.
 
 All exercises should have an accompanying `measure.json` file.
 

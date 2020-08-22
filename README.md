@@ -10,7 +10,7 @@ Most of the apps l tried had a very small list of in-built exercises, requiring 
 
 My hope is that this repo changes that. l want to create a complete and extensive open dataset of exercises that sits within the public domain, with the idea that eventually all fitness tracking apps can use.
 
-Contributions are wanted, as l know this will be too much to undertake by any one person, so please visit the [contributing guidelines](https://github.com/wrkout/exercises.json/master/CONTRIBUTING.md)
+Contributions are wanted, as l know this will be too much to undertake by any one person, so please visit the [contributing guidelines](https://github.com/wrkout/exercises.json/blob/master/CONTRIBUTING.md)
 
 ## Scripts
 
