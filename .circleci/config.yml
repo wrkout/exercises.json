@@ -60,10 +60,9 @@ jobs:
       - store_artifacts:
           path: .jest/coverage
   postgresql-tests:
-    <<: *defaults
+    <<: *js_defaults
     docker:
-      - image: circleci/node:14.5.0-buster
-      - image: circleci/postgres:12.4-postgis
+      - image: circleci/postgres:12.4
         environment:
           POSTGRES_USER: wrkout
           POSTGRES_DB: exercises-db
