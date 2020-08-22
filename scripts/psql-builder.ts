@@ -60,7 +60,7 @@ CREATE TABLE ${tableName} (
   secondary_muscles muscle[],
   force forceType,
   level levelType NOT NULL,
-  mechanic mechanicsType NOT NULL,
+  mechanic mechanicType NOT NULL,
   equipment equipmentType,
   category categoryType NOT NULL,
   instructions Text[],
