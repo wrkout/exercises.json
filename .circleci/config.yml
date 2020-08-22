@@ -62,7 +62,7 @@ jobs:
   postgresql-tests:
     <<: *js_defaults
     docker:
-      - image: circleci/postgres:12.4-alpine
+      - image: circleci/postgres:12.4-postgis
         environment:
           POSTGRES_USER: wrkout
           POSTGRES_DB: exercises-db
@@ -78,7 +78,7 @@ jobs:
           command: psql -h localhost -U wrkout -f exercises-psql.sql
 
 workflows:
-  test-publish-release:
+  test:
     jobs:
       - prepare_environment
       - lint:
