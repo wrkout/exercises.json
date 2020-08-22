@@ -8,7 +8,9 @@ describe("Scripts", () => {
   afterEach(() => {
     try {
       unlinkSync(resolve(process.cwd(), "exercises-psql.sql"));
-    } catch (e) {}
+    } catch (e) {
+      console.warn("Nothing to delete");
+    }
   });
 
   describe("psql-builder", () => {

@@ -8,7 +8,9 @@ describe("Scripts", () => {
   afterEach(() => {
     try {
       unlinkSync(resolve(process.cwd(), "exercises.json"));
-    } catch (e) {}
+    } catch (e) {
+      console.warn("Nothing to delete");
+    }
   });
 
   describe("json-builder", () => {
