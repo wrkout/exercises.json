@@ -63,7 +63,7 @@ jobs:
     <<: *defaults
     docker:
       - image: circleci/node:14.5.0-buster
-      - image: circleci/postgres:12.4
+      - image: circleci/postgres:11.4
         environment:
           POSTGRES_USER: wrkout
           POSTGRES_DB: exercises-db
@@ -71,13 +71,7 @@ jobs:
     steps:
       - attach_workspace:
           at: .
-      - run:
-          name: Install Postgresql-client-12
-          command: |
-            wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
-            echo "deb http://apt.postgresql.org/pub/repos/apt/ `lsb_release -cs`-pgdg main" |sudo tee  /etc/apt/sources.list.d/pgdg.list
-            sudo apt update
-            sudo apt install -y postgresql-client-12 || true
+      - run: sudo apt install -y postgresql-client || true
       - run:
           name: Generate exercises-psql.sql
           command: npm run build:psql
