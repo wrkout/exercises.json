@@ -41,7 +41,7 @@ const createPostgresEnum = (
     }, {})
   );
   const enumString = enumValues.map((n) => `'${n}'`).join(",");
-  const enumType = `CREATE TYPE ${typeName} AS ENUM (${enumString})`;
+  const enumType = `CREATE TYPE ${typeName} AS ENUM (${enumString});`;
   return enumType;
 };
 
@@ -70,7 +70,7 @@ CREATE TABLE ${tableName} (
   date_updated timestamptz NOT NULL DEFAULT statement_timestamp(),
   PRIMARY KEY ("id")
   UNIQUE ("name")
-)
+);
 `;
 
 const createInsertStatement = (
@@ -99,11 +99,11 @@ const psqlContents = [
   ...createLineBreak(2),
   createSQLComment("Connect to DB"),
   ...createLineBreak(),
-  `\\connect exercises-db`,
+  `\\connect exercises-db;`,
   ...createLineBreak(2),
   createSQLComment("Drop Tables"),
   ...createLineBreak(),
-  `DROP TABLE IF EXISTS ${tableName}`,
+  `DROP TABLE IF EXISTS ${tableName};`,
   ...createLineBreak(2),
   createSQLComment("ENUMS"),
   ...createLineBreak(),

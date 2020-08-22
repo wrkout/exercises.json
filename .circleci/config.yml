@@ -71,7 +71,7 @@ jobs:
     steps:
       - attach_workspace:
           at: .
-      - run: sudo apt install -y postgresql-client || true
+      - run: sudo apt install -y postgresql-client-12 || true
       - run:
           name: Generate exercises-psql.sql
           command: npm run build:psql
