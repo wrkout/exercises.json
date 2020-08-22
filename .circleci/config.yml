@@ -67,6 +67,7 @@ jobs:
         environment:
           POSTGRES_USER: wrkout
           POSTGRES_DB: exercises-db
+          POSTGRES_HOST_AUTH_METHOD: trust
     steps:
       - attach_workspace:
           at: .
