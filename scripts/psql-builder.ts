@@ -68,7 +68,7 @@ CREATE TABLE ${tableName} (
   tips Text[],
   date_created timestamptz NOT NULL DEFAULT now(),
   date_updated timestamptz NOT NULL DEFAULT statement_timestamp(),
-  PRIMARY KEY ("id")
+  PRIMARY KEY ("id"),
   UNIQUE ("name")
 );
 `;
