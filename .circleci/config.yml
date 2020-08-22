@@ -71,7 +71,12 @@ jobs:
     steps:
       - attach_workspace:
           at: .
-      - run: sudo apt install -y postgresql-client-12 || true
+      - run:
+          name: Install Postgresql-client-12
+          command: |
+            wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+            sudo apt update
+            sudo apt install -y postgresql-client-12 || true
       - run:
           name: Generate exercises-psql.sql
           command: npm run build:psql
