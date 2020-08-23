@@ -2,16 +2,10 @@
   "name": "Rocky Pull-Ups/Pulldowns",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "middle back",
-    "shoulders"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["biceps", "middle back", "shoulders"],
   "instructions": [
     "Grab the pull-up bar with the palms facing forward using a wide grip.",
     "As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",

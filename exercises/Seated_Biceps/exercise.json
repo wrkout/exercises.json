@@ -2,15 +2,10 @@
   "name": "Seated Biceps",
   "force": "static",
   "level": "expert",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": [
-    "biceps"
-  ],
-  "secondaryMuscles": [
-    "chest",
-    "shoulders"
-  ],
+  "primaryMuscles": ["biceps"],
+  "secondaryMuscles": ["chest", "shoulders"],
   "instructions": [
     "Sit on the floor with your knees bent and your partner standing behind you. Extend your arms straight behind you with your palms facing each other. Your partner will hold your wrists for you. This will be the starting position.",
     "Attempt to flex your elbows, while your partner prevents any actual movement.",

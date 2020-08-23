@@ -2,15 +2,10 @@
   "name": "Plyo Push-up",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders", "triceps"],
   "instructions": [
     "Move into a prone position on the floor, supporting your weight on your hands and toes.",
     "Your arms should be fully extended with the hands around shoulder width. Keep your body straight throughout the movement. This will be your starting position.",

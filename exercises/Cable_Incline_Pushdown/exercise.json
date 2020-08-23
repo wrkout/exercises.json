@@ -2,11 +2,9 @@
   "name": "Cable Incline Pushdown",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "lats"
-  ],
+  "primaryMuscles": ["lats"],
   "secondaryMuscles": [],
   "instructions": [
     "Lie on incline an bench facing away from a high pulley machine that has a straight bar attachment on it.",

@@ -2,11 +2,9 @@
   "name": "Reverse Flyes With External Rotation",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "shoulders"
-  ],
+  "primaryMuscles": ["shoulders"],
   "secondaryMuscles": [],
   "instructions": [
     "To begin, lie down on an incline bench set at a 30-degree angle with the chest and stomach pressing against the incline.",

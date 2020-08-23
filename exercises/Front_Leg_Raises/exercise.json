@@ -2,11 +2,9 @@
   "name": "Front Leg Raises",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "body only",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [],
   "instructions": [
     "Stand next to a chair or other support, holding on with one hand.",

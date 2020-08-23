@@ -2,14 +2,10 @@
   "name": "Seated Glute",
   "force": "static",
   "level": "expert",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "body only",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "adductors"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["adductors"],
   "instructions": [
     "In a seated position with your knees bent, cross one ankle over the opposite knee. Your partner will stand behind you. Now, lean forward as your partner braces your shoulders with their hands. This will be your starting position.",
     "Attempt to push your torso back for 10-20 seconds, as your partner prevents any actual movement of your torso.",

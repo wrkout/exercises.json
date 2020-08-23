@@ -2,15 +2,10 @@
   "name": "Child's Pose",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": null,
-  "primaryMuscles": [
-    "lower back"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "middle back"
-  ],
+  "primaryMuscles": ["lower back"],
+  "secondaryMuscles": ["glutes", "middle back"],
   "instructions": [
     "Get on your hands and knees, walk your hands in front of you.",
     "Lower your buttocks down to sit on your heels. Let your arms drag along the floor as you sit back to stretch your entire spine.",

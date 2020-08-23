@@ -2,11 +2,9 @@
   "name": "One-Arm Side Deadlift",
   "force": "pull",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
   "secondaryMuscles": [
     "abdominals",
     "calves",

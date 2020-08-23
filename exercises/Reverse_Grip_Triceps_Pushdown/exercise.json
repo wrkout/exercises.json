@@ -2,11 +2,9 @@
   "name": "Reverse Grip Triceps Pushdown",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
   "instructions": [
     "Start by setting a bar attachment (straight or e-z) on a high pulley machine.",

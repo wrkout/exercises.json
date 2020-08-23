@@ -2,11 +2,9 @@
   "name": "Skating",
   "force": null,
   "level": "intermediate",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "other",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
   "secondaryMuscles": [
     "abductors",
     "adductors",

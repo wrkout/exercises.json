@@ -2,11 +2,9 @@
   "name": "Butterfly",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "machine",
-  "primaryMuscles": [
-    "chest"
-  ],
+  "primaryMuscles": ["chest"],
   "secondaryMuscles": [],
   "instructions": [
     "Sit on the machine with your back flat on the pad.",

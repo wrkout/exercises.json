@@ -2,11 +2,9 @@
   "name": "Seated Palms-Down Barbell Wrist Curl",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "forearms"
-  ],
+  "primaryMuscles": ["forearms"],
   "secondaryMuscles": [],
   "instructions": [
     "Hold a barbell with both hands and your palms facing down; hands spaced about shoulder width.",

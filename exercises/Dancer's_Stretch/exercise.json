@@ -2,15 +2,10 @@
   "name": "Dancer's Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": null,
-  "primaryMuscles": [
-    "lower back"
-  ],
-  "secondaryMuscles": [
-    "abductors",
-    "glutes"
-  ],
+  "primaryMuscles": ["lower back"],
+  "secondaryMuscles": ["abductors", "glutes"],
   "instructions": [
     "Sit up on the floor.",
     "Cross your right leg over your left, keeping the knee bent. Your left leg is straight and down on the floor.",

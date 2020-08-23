@@ -2,14 +2,10 @@
   "name": "Kettlebell Seesaw Press",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": [
-    "shoulders"
-  ],
-  "secondaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": ["triceps"],
   "instructions": [
     "Clean two kettlebells two your shoulders.",
     "Press one kettlebell.",
