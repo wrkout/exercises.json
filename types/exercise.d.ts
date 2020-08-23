@@ -69,7 +69,7 @@ export interface Exercise {
   secondaryMuscles: Muscle[];
   force?: Force;
   level: Level;
-  mechanicsType?: Mechanic;
+  mechanic?: Mechanic;
   equipment?: Equipment;
   category: Category;
   instructions: string[];
