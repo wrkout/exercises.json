@@ -10,7 +10,7 @@ import { Exercise } from "../types/exercise";
 
 const psql = knex({
   client: "pg",
-  wrapIdentifier: (value, origImpl, queryContext) => origImpl(snakecase(value)),
+  wrapIdentifier: (value, origImpl) => origImpl(snakecase(value)),
 });
 
 const tableName = process.argv[2] || "exercises";
