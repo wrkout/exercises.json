@@ -64,7 +64,7 @@ CREATE TABLE ${tableName} (
   secondary_muscles muscle[],
   force forceType,
   level levelType NOT NULL,
-  mechanic mechanicType NOT NULL,
+  mechanic mechanicType,
   equipment equipmentType,
   category categoryType NOT NULL,
   instructions Text[],
@@ -91,7 +91,7 @@ const exercises = getExercises(directories);
 const psqlContents = [
   createSQLComment("Database Setup File"),
   ...createLineBreak(),
-  `\\set ON_ERROR_STOP 1;`,
+  `\\set ON_ERROR_STOP true`,
   ...createLineBreak(),
   `SET statement_timeout = 0;`,
   ...createLineBreak(),
