@@ -96,6 +96,8 @@ const psqlContents = [
   `SET check_function_bodies = false;`,
   ...createLineBreak(),
   `SET client_min_messages = warning;`,
+  ...createLineBreak(),
+  `SET ON_ERROR_STOP = true;`,
   ...createLineBreak(2),
   createSQLComment("Connect to DB"),
   ...createLineBreak(),
