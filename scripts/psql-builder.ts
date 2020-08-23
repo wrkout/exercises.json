@@ -5,9 +5,13 @@ import { EOL } from "os";
 import { resolve } from "path";
 import { v4 as uuid } from "uuid";
 import knex from "knex";
+import snakecase from "lodash.snakecase";
 import { Exercise } from "../types/exercise";
 
-const psql = knex({ client: "pg" });
+const psql = knex({
+  client: "pg",
+  wrapIdentifier: (value, origImpl, queryContext) => origImpl(snakecase(value)),
+});
 
 const tableName = process.argv[2] || "exercises";
 
@@ -87,6 +91,8 @@ const exercises = getExercises(directories);
 const psqlContents = [
   createSQLComment("Database Setup File"),
   ...createLineBreak(),
+  `\\set ON_ERROR_STOP 1;`,
+  ...createLineBreak(),
   `SET statement_timeout = 0;`,
   ...createLineBreak(),
   `SET client_encoding = 'UTF8';`,
@@ -96,8 +102,6 @@ const psqlContents = [
   `SET check_function_bodies = false;`,
   ...createLineBreak(),
   `SET client_min_messages = warning;`,
-  ...createLineBreak(),
-  `\\set ON_ERROR_STOP true;`,
   ...createLineBreak(2),
   createSQLComment("Connect to DB"),
   ...createLineBreak(),

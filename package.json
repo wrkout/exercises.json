@@ -26,6 +26,8 @@
   "homepage": "https://github.com/wrkout/exercises.json",
   "devDependencies": {
     "@types/jest": "^26.0.10",
+    "@types/lodash": "^4.14.159",
+    "@types/lodash.snakecase": "^4.1.6",
     "@types/node": "^14.6.0",
     "@types/uuid": "^8.3.0",
     "@typescript-eslint/eslint-plugin": "^3.9.1",
@@ -43,6 +45,7 @@
   },
   "dependencies": {
     "knex": "^0.21.5",
+    "lodash.snakecase": "^4.1.1",
     "uuid": "^8.3.0"
   }
 }
