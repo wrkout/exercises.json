@@ -2,7 +2,7 @@
   "name": "Double Kettlebell Snatch",
   "force": "pull",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "kettlebells",
   "primaryMuscles": [
     "shoulders"

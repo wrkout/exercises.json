@@ -2,7 +2,7 @@
   "name": "Calf Stretch Hands Against Wall",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": null,
   "primaryMuscles": [
     "calves"

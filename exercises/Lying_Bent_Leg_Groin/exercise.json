@@ -2,7 +2,7 @@
   "name": "Lying Bent Leg Groin",
   "force": "static",
   "level": "expert",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "other",
   "primaryMuscles": [
     "adductors"

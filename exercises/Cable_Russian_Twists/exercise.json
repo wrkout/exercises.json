@@ -2,7 +2,7 @@
   "name": "Cable Russian Twists",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "cable",
   "primaryMuscles": [
     "abdominals"

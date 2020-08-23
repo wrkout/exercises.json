@@ -2,7 +2,7 @@
   "name": "Barbell Shoulder Press",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "shoulders"

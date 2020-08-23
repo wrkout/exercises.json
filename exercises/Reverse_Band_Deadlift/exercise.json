@@ -2,11 +2,9 @@
   "name": "Reverse Band Deadlift",
   "force": "pull",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "lower back"
-  ],
+  "primaryMuscles": ["lower back"],
   "secondaryMuscles": [
     "abductors",
     "adductors",

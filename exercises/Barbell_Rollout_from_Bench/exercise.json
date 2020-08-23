@@ -2,7 +2,7 @@
   "name": "Barbell Rollout from Bench",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "abdominals"

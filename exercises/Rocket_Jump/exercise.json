@@ -2,7 +2,7 @@
   "name": "Rocket Jump",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "body only",
   "primaryMuscles": [
     "quadriceps"

@@ -2,7 +2,7 @@
   "name": "Standing Lateral Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": null,
   "primaryMuscles": [
     "abdominals"

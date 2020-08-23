@@ -2,7 +2,7 @@
   "name": "Standing Dumbbell Calf Raise",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "calves"

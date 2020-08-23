@@ -2,7 +2,7 @@
   "name": "Chair Leg Extended Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "hamstrings"

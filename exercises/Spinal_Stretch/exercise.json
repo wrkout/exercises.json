@@ -2,7 +2,7 @@
   "name": "Spinal Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": null,
   "primaryMuscles": [
     "middle back"

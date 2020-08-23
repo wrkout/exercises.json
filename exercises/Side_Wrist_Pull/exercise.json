@@ -2,7 +2,7 @@
   "name": "Side Wrist Pull",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": null,
   "primaryMuscles": [
     "shoulders"

@@ -2,7 +2,7 @@
   "name": "Smith Machine Stiff-Legged Deadlift",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "machine",
   "primaryMuscles": [
     "hamstrings"

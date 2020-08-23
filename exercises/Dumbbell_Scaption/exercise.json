@@ -2,7 +2,7 @@
   "name": "Dumbbell Scaption",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "shoulders"

@@ -2,7 +2,7 @@
   "name": "Chest And Front Of Shoulder Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "chest"

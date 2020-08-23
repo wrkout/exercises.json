@@ -2,7 +2,7 @@
   "name": "Knee/Hip Raise On Parallel Bars",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "abdominals"

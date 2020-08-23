@@ -2,7 +2,7 @@
   "name": "Standing Elevated Quad Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "other",
   "primaryMuscles": [
     "quadriceps"

@@ -2,11 +2,9 @@
   "name": "Donkey Calf Raises",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "other",
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
   "instructions": [
     "For this exercise you will need access to a donkey calf raise machine. Start by positioning your lower back and hips under the padded lever provided. The tailbone area should be the one making contact with the pad.",

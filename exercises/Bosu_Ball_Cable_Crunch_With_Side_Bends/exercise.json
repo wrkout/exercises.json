@@ -2,11 +2,9 @@
   "name": "Bosu Ball Cable Crunch With Side Bends",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "abdominals"
-  ],
+  "primaryMuscles": ["abdominals"],
   "secondaryMuscles": [],
   "instructions": [
     "Connect a standard handle to each arm of a cable machine, and position them in the most downward position.",

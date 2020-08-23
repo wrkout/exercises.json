@@ -2,7 +2,7 @@
   "name": "Push-Ups With Feet Elevated",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "body only",
   "primaryMuscles": [
     "chest"

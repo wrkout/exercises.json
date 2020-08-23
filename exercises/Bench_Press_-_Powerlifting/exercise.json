@@ -2,17 +2,10 @@
   "name": "Bench Press - Powerlifting",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "triceps"
-  ],
-  "secondaryMuscles": [
-    "chest",
-    "forearms",
-    "lats",
-    "shoulders"
-  ],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": ["chest", "forearms", "lats", "shoulders"],
   "instructions": [
     "Begin by lying on the bench, getting your head beyond the bar if possible. Tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement.",
     "However wide your grip, it should cover the ring on the bar. Pull the bar out of the rack without protracting your shoulders. Focus on squeezing the bar and trying to pull it apart.",

@@ -2,7 +2,7 @@
   "name": "Cable Preacher Curl",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
   "primaryMuscles": [
     "biceps"

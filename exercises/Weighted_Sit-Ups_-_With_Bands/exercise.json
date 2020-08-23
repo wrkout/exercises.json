@@ -2,7 +2,7 @@
   "name": "Weighted Sit-Ups - With Bands",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "abdominals"

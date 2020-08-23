@@ -2,7 +2,7 @@
   "name": "Vertical Swing",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "hamstrings"

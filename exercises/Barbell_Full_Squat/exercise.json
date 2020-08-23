@@ -2,7 +2,7 @@
   "name": "Barbell Full Squat",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "quadriceps"

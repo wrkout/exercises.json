@@ -2,7 +2,7 @@
   "name": "Anti-Gravity Press",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "shoulders"

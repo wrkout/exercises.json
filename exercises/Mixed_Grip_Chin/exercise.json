@@ -2,7 +2,7 @@
   "name": "Mixed Grip Chin",
   "force": "pull",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
   "primaryMuscles": [
     "middle back"

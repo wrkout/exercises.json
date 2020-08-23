@@ -2,7 +2,7 @@
   "name": "Exercise Ball Pull-In",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "exercise ball",
   "primaryMuscles": [
     "abdominals"

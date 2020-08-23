@@ -2,7 +2,7 @@
   "name": "Peroneals Stretch",
   "force": "static",
   "level": "intermediate",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "other",
   "primaryMuscles": [
     "calves"

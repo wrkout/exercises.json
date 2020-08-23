@@ -2,7 +2,7 @@
   "name": "Landmine 180's",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "abdominals"

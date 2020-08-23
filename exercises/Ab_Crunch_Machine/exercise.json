@@ -2,7 +2,7 @@
   "name": "Ab Crunch Machine",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "machine",
   "primaryMuscles": [
     "abdominals"

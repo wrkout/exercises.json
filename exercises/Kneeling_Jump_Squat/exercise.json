@@ -2,16 +2,10 @@
   "name": "Kneeling Jump Squat",
   "force": "push",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "glutes"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "hamstrings",
-    "quadriceps"
-  ],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["calves", "hamstrings", "quadriceps"],
   "instructions": [
     "Begin kneeling on the floor with a barbell racked across the back of your shoulders, or you can use your body weight for this exercise. This can be done inside of a power rack to make unracking easier.",
     "Sit back with your hips until your glutes touch your feet, keeping your head and chest up.",

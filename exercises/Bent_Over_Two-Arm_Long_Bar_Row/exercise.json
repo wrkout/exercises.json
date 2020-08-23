@@ -2,7 +2,7 @@
   "name": "Bent Over Two-Arm Long Bar Row",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "middle back"

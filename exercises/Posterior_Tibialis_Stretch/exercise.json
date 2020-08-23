@@ -2,11 +2,9 @@
   "name": "Posterior Tibialis Stretch",
   "force": "static",
   "level": "intermediate",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "other",
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
   "instructions": [
     "In a seated position, loop a belt, rope, or band around one foot. This will be your starting position.",

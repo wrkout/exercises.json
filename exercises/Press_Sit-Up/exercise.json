@@ -2,7 +2,7 @@
   "name": "Press Sit-Up",
   "force": "push",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "abdominals"

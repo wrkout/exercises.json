@@ -2,7 +2,7 @@
   "name": "Barbell Curls Lying Against An Incline",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "barbell",
   "primaryMuscles": [
     "biceps"

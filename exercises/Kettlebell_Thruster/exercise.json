@@ -2,7 +2,7 @@
   "name": "Kettlebell Thruster",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "kettlebells",
   "primaryMuscles": [
     "shoulders"

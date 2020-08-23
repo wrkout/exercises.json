@@ -2,7 +2,7 @@
   "name": "External Rotation with Cable",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
   "primaryMuscles": [
     "shoulders"

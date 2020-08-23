@@ -2,7 +2,7 @@
   "name": "Standing Dumbbell Triceps Extension",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "triceps"

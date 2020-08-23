@@ -2,17 +2,10 @@
   "name": "One-Arm Kettlebell Swings",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "kettlebells",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "calves",
-    "glutes",
-    "lower back",
-    "shoulders"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["calves", "glutes", "lower back", "shoulders"],
   "instructions": [],
   "category": "strength"
 }

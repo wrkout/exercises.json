@@ -2,7 +2,7 @@
   "name": "Standing Leg Curl",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "machine",
   "primaryMuscles": [
     "hamstrings"

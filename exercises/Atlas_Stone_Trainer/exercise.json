@@ -2,11 +2,9 @@
   "name": "Atlas Stone Trainer",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "lower back"
-  ],
+  "primaryMuscles": ["lower back"],
   "secondaryMuscles": [
     "biceps",
     "forearms",

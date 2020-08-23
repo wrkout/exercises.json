@@ -2,7 +2,7 @@
   "name": "Lateral Raise - With Bands",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "bands",
   "primaryMuscles": [
     "shoulders"

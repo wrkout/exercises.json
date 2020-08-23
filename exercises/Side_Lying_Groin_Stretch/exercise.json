@@ -2,7 +2,7 @@
   "name": "Side Lying Groin Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": null,
   "primaryMuscles": [
     "adductors"

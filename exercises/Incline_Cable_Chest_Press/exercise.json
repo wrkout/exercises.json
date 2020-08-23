@@ -2,7 +2,7 @@
   "name": "Incline Cable Chest Press",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "cable",
   "primaryMuscles": [
     "chest"

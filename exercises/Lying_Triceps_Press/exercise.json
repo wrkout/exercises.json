@@ -2,11 +2,9 @@
   "name": "Lying Triceps Press",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "e-z curl bar",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
   "instructions": [
     "Lie on a flat bench with either an e-z bar (my preference) or a straight bar placed on the floor behind your head and your feet on the floor.",

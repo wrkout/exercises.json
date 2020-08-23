@@ -2,7 +2,7 @@
   "name": "Rope Jumping",
   "force": null,
   "level": "intermediate",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "other",
   "primaryMuscles": [
     "quadriceps"

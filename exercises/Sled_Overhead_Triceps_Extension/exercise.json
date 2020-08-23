@@ -2,7 +2,7 @@
   "name": "Sled Overhead Triceps Extension",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "triceps"

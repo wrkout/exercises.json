@@ -2,7 +2,7 @@
   "name": "Split Squat with Dumbbells",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "quadriceps"

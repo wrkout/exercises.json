@@ -2,11 +2,9 @@
   "name": "Calf Press",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "machine",
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
   "instructions": [
     "Adjust the seat so that your legs are only slightly bent in the start position. The balls of your feet should be firmly on the platform.",

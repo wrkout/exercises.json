@@ -2,16 +2,10 @@
   "name": "Incline Push-Up Reverse Grip",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "abdominals",
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["abdominals", "shoulders", "triceps"],
   "instructions": [
     "Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.",
     "Place your hands on the bar palms up, with your hands about shoulder width apart.",

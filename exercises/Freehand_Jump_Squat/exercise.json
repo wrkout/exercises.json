@@ -2,7 +2,7 @@
   "name": "Freehand Jump Squat",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "body only",
   "primaryMuscles": [
     "quadriceps"

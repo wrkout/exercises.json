@@ -2,7 +2,7 @@
   "name": "Weighted Ball Hyperextension",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "exercise ball",
   "primaryMuscles": [
     "lower back"

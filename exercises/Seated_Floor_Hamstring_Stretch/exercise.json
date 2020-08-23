@@ -2,7 +2,7 @@
   "name": "Seated Floor Hamstring Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": null,
   "primaryMuscles": [
     "hamstrings"

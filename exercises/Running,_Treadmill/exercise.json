@@ -2,7 +2,7 @@
   "name": "Running, Treadmill",
   "force": null,
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "machine",
   "primaryMuscles": [
     "quadriceps"

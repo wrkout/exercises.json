@@ -2,7 +2,7 @@
   "name": "Reverse Band Sumo Deadlift",
   "force": "pull",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "hamstrings"

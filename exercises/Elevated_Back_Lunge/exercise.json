@@ -2,7 +2,7 @@
   "name": "Elevated Back Lunge",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "quadriceps"

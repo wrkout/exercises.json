@@ -2,7 +2,7 @@
   "name": "Straight-Arm Pulldown",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
   "primaryMuscles": [
     "lats"

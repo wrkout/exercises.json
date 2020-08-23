@@ -2,7 +2,7 @@
   "name": "Cable Crossover",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
   "primaryMuscles": [
     "chest"

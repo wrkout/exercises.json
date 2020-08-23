@@ -2,7 +2,7 @@
   "name": "Looking At Ceiling",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": null,
   "primaryMuscles": [
     "quadriceps"

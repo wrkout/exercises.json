@@ -2,7 +2,7 @@
   "name": "Mountain Climbers",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": null,
   "primaryMuscles": [
     "quadriceps"

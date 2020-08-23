@@ -2,7 +2,7 @@
   "name": "Chair Upper Body Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "other",
   "primaryMuscles": [
     "shoulders"

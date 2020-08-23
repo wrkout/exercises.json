@@ -2,7 +2,7 @@
   "name": "Russian Twist",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "body only",
   "primaryMuscles": [
     "abdominals"

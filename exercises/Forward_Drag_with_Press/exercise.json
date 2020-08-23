@@ -2,7 +2,7 @@
   "name": "Forward Drag with Press",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
   "primaryMuscles": [
     "chest"

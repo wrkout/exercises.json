@@ -2,7 +2,7 @@
   "name": "Drag Curl",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "biceps"

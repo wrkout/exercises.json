@@ -2,11 +2,9 @@
   "name": "Keg Load",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "lower back"
-  ],
+  "primaryMuscles": ["lower back"],
   "secondaryMuscles": [
     "abdominals",
     "biceps",

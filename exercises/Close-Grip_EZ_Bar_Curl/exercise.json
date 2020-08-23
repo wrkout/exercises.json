@@ -2,7 +2,7 @@
   "name": "Close-Grip EZ Bar Curl",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "barbell",
   "primaryMuscles": [
     "biceps"

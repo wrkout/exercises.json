@@ -2,7 +2,7 @@
   "name": "Lying High Bench Barbell Curl",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "barbell",
   "primaryMuscles": [
     "biceps"

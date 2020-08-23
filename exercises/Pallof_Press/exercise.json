@@ -2,16 +2,10 @@
   "name": "Pallof Press",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-    "chest",
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": ["chest", "shoulders", "triceps"],
   "instructions": [
     "Connect a standard handle to a tower, andâ€”if possibleâ€”position the cable to shoulder height. If not, a low pulley will suffice.",
     "With your side to the cable, grab the handle with both hands and step away from the tower. You should be approximately armâ€™s length away from the pulley, with the tension of the weight on the cable.",

@@ -2,7 +2,7 @@
   "name": "One Arm Floor Press",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "triceps"

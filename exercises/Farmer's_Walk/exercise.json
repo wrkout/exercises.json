@@ -2,11 +2,9 @@
   "name": "Farmer's Walk",
   "force": null,
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "forearms"
-  ],
+  "primaryMuscles": ["forearms"],
   "secondaryMuscles": [
     "abdominals",
     "glutes",

@@ -2,7 +2,7 @@
   "name": "Intermediate Hip Flexor and Quad Stretch",
   "force": "static",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
   "primaryMuscles": [
     "quadriceps"

@@ -2,7 +2,7 @@
   "name": "Elbow Circles",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": null,
   "primaryMuscles": [
     "shoulders"

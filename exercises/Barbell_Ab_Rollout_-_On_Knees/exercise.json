@@ -2,7 +2,7 @@
   "name": "Barbell Ab Rollout - On Knees",
   "force": "pull",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "abdominals"

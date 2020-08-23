@@ -2,7 +2,7 @@
   "name": "Hip Circles (prone)",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "body only",
   "primaryMuscles": [
     "abductors"

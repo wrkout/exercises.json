@@ -2,7 +2,7 @@
   "name": "Frog Sit-Ups",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "body only",
   "primaryMuscles": [
     "abdominals"

@@ -2,7 +2,7 @@
   "name": "One Handed Hang",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "other",
   "primaryMuscles": [
     "lats"

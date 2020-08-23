@@ -2,7 +2,7 @@
   "name": "Box Jump (Multiple Response)",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
   "primaryMuscles": [
     "hamstrings"

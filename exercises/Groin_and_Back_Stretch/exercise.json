@@ -2,7 +2,7 @@
   "name": "Groin and Back Stretch",
   "force": "static",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": null,
   "primaryMuscles": [
     "adductors"

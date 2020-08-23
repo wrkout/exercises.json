@@ -2,7 +2,7 @@
   "name": "Plank",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "body only",
   "primaryMuscles": [
     "abdominals"

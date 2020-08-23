@@ -2,7 +2,7 @@
   "name": "Standing Towel Triceps Extension",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "body only",
   "primaryMuscles": [
     "triceps"

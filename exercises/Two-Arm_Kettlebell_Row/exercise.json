@@ -2,7 +2,7 @@
   "name": "Two-Arm Kettlebell Row",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "kettlebells",
   "primaryMuscles": [
     "middle back"

@@ -2,11 +2,9 @@
   "name": "Crunches",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": [
-    "abdominals"
-  ],
+  "primaryMuscles": ["abdominals"],
   "secondaryMuscles": [],
   "instructions": [
     "Lie flat on your back with your feet flat on the ground, or resting on a bench with your knees bent at a 90 degree angle. If you are resting your feet on a bench, place them three to four inches apart and point your toes inward so they touch.",

@@ -2,7 +2,7 @@
   "name": "Lying Hamstring",
   "force": "static",
   "level": "expert",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "other",
   "primaryMuscles": [
     "hamstrings"

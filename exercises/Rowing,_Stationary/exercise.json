@@ -2,7 +2,7 @@
   "name": "Rowing, Stationary",
   "force": null,
   "level": "intermediate",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "machine",
   "primaryMuscles": [
     "quadriceps"

@@ -2,7 +2,7 @@
   "name": "Speed Squats",
   "force": "push",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "quadriceps"

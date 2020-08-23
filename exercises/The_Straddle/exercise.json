@@ -2,7 +2,7 @@
   "name": "The Straddle",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": null,
   "primaryMuscles": [
     "hamstrings"

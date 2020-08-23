@@ -2,7 +2,7 @@
   "name": "Side Standing Long Jump",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": null,
   "primaryMuscles": [
     "quadriceps"

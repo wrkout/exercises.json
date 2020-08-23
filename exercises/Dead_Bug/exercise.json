@@ -2,7 +2,7 @@
   "name": "Dead Bug",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "body only",
   "primaryMuscles": [
     "abdominals"

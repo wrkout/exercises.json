@@ -2,7 +2,7 @@
   "name": "Chain Handle Extension",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "triceps"

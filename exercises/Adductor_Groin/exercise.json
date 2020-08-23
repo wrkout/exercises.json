@@ -2,7 +2,7 @@
   "name": "Adductor/Groin",
   "force": "static",
   "level": "intermediate",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": null,
   "primaryMuscles": [
     "adductors"

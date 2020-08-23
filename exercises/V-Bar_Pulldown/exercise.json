@@ -2,7 +2,7 @@
   "name": "V-Bar Pulldown",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "cable",
   "primaryMuscles": [
     "lats"

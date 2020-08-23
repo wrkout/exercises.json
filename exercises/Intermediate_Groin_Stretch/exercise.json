@@ -2,7 +2,7 @@
   "name": "Intermediate Groin Stretch",
   "force": "static",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "hamstrings"

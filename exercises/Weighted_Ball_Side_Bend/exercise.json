@@ -2,11 +2,9 @@
   "name": "Weighted Ball Side Bend",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "exercise ball",
-  "primaryMuscles": [
-    "abdominals"
-  ],
+  "primaryMuscles": ["abdominals"],
   "secondaryMuscles": [],
   "instructions": [
     "To begin, lie down on an exercise ball with your left side of the torso (waist, hips and shoulder) pressed against the ball.",

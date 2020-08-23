@@ -2,7 +2,7 @@
   "name": "Landmine Linear Jammer",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "shoulders"

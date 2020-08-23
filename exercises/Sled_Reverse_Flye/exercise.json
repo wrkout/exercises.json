@@ -2,7 +2,7 @@
   "name": "Sled Reverse Flye",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "shoulders"

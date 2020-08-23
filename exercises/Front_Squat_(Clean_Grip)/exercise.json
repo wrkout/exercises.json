@@ -2,7 +2,7 @@
   "name": "Front Squat (Clean Grip)",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "quadriceps"

@@ -2,7 +2,7 @@
   "name": "Floor Glute-Ham Raise",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": null,
   "primaryMuscles": [
     "hamstrings"

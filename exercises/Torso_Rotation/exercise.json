@@ -2,7 +2,7 @@
   "name": "Torso Rotation",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "exercise ball",
   "primaryMuscles": [
     "abdominals"

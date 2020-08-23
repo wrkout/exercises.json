@@ -2,7 +2,7 @@
   "name": "Backward Medicine Ball Throw",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "medicine ball",
   "primaryMuscles": [
     "shoulders"

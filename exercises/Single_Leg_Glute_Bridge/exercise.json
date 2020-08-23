@@ -2,7 +2,7 @@
   "name": "Single Leg Glute Bridge",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "body only",
   "primaryMuscles": [
     "glutes"

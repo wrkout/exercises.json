@@ -2,7 +2,7 @@
   "name": "Thigh Adductor",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "machine",
   "primaryMuscles": [
     "adductors"

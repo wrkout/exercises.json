@@ -2,7 +2,7 @@
   "name": "Decline Push-Up",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": null,
   "primaryMuscles": [
     "chest"

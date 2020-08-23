@@ -2,7 +2,7 @@
   "name": "High Cable Curls",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "cable",
   "primaryMuscles": [
     "biceps"

@@ -2,16 +2,10 @@
   "name": "Chest Push (multiple response)",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "medicine ball",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "abdominals",
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["abdominals", "shoulders", "triceps"],
   "instructions": [
     "Begin in a kneeling position facing a wall or utilize a partner. Hold the ball with both hands tight into the chest.",
     "Execute the pass by exploding forward and outward with the hips while pushing the ball as hard as possible.",

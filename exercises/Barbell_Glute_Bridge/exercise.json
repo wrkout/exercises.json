@@ -2,7 +2,7 @@
   "name": "Barbell Glute Bridge",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "glutes"

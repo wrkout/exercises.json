@@ -2,7 +2,7 @@
   "name": "Incline Inner Biceps Curl",
   "force": null,
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "biceps"

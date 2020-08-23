@@ -2,11 +2,9 @@
   "name": "Crunch - Legs On Exercise Ball",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": [
-    "abdominals"
-  ],
+  "primaryMuscles": ["abdominals"],
   "secondaryMuscles": [],
   "instructions": [
     "Lie flat on your back with your feet resting on an exercise ball and your knees bent at a 90 degree angle.",

@@ -2,7 +2,7 @@
   "name": "Incline Barbell Triceps Extension",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "barbell",
   "primaryMuscles": [
     "triceps"

@@ -2,7 +2,7 @@
   "name": "Hang Clean - Below the Knees",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "quadriceps"

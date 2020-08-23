@@ -2,7 +2,7 @@
   "name": "Goblet Squat",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "kettlebells",
   "primaryMuscles": [
     "quadriceps"

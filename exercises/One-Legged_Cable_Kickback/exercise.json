@@ -2,7 +2,7 @@
   "name": "One-Legged Cable Kickback",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
   "primaryMuscles": [
     "glutes"

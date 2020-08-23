@@ -2,7 +2,7 @@
   "name": "Lying Prone Quadriceps",
   "force": null,
   "level": "expert",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "body only",
   "primaryMuscles": [
     "quadriceps"

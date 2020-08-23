@@ -2,7 +2,7 @@
   "name": "Lying Cambered Barbell Row",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "barbell",
   "primaryMuscles": [
     "middle back"

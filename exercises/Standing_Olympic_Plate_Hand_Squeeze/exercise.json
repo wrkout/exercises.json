@@ -2,7 +2,7 @@
   "name": "Standing Olympic Plate Hand Squeeze",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "forearms"

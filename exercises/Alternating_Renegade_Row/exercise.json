@@ -2,7 +2,7 @@
   "name": "Alternating Renegade Row",
   "force": "pull",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "kettlebells",
   "primaryMuscles": [
     "middle back"

@@ -2,7 +2,7 @@
   "name": "Reverse Plate Curls",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "biceps"

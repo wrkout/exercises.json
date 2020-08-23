@@ -2,7 +2,7 @@
   "name": "Front Box Jump",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
   "primaryMuscles": [
     "hamstrings"

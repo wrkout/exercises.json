@@ -2,16 +2,10 @@
   "name": "One Arm Chin-Up",
   "force": "pull",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "middle back"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "forearms",
-    "lats"
-  ],
+  "primaryMuscles": ["middle back"],
+  "secondaryMuscles": ["biceps", "forearms", "lats"],
   "instructions": [
     "For this exercise, start out by placing a towel around a chin up bar.",
     "Grab the chin-up bar with your palm facing you. One hand will be grabbing the chin-up bar and the other will be grabbing the towel.",

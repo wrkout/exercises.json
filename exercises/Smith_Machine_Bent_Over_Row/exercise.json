@@ -2,7 +2,7 @@
   "name": "Smith Machine Bent Over Row",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "machine",
   "primaryMuscles": [
     "middle back"

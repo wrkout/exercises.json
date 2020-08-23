@@ -2,7 +2,7 @@
   "name": "Bicycling",
   "force": null,
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "other",
   "primaryMuscles": [
     "quadriceps"

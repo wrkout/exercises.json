@@ -2,11 +2,9 @@
   "name": "Prone Manual Hamstring",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": null,
-  "primaryMuscles": [
-    "hamstrings"
-  ],
+  "primaryMuscles": ["hamstrings"],
   "secondaryMuscles": [],
   "instructions": [
     "You will need a partner for this exercise. Lay face down with your legs straight. Your assistant will place their hand on your heel.",

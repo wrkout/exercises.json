@@ -2,7 +2,7 @@
   "name": "Standing Barbell Press Behind Neck",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "shoulders"

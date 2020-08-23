@@ -2,11 +2,9 @@
   "name": "Kneeling Cable Crunch With Alternating Oblique Twists",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "abdominals"
-  ],
+  "primaryMuscles": ["abdominals"],
   "secondaryMuscles": [],
   "instructions": [
     "Connect a rope attachment to a high pulley cable and position a mat on the floor in front of it.",

@@ -2,7 +2,7 @@
   "name": "Isometric Neck Exercise - Sides",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "body only",
   "primaryMuscles": [
     "neck"

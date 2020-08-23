@@ -2,7 +2,7 @@
   "name": "Alternate Hammer Curl",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "biceps"

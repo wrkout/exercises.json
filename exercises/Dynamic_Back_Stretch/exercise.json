@@ -2,11 +2,9 @@
   "name": "Dynamic Back Stretch",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": null,
-  "primaryMuscles": [
-    "lats"
-  ],
+  "primaryMuscles": ["lats"],
   "secondaryMuscles": [],
   "instructions": [
     "Stand with your feet shoulder width apart. This will be your starting position.",

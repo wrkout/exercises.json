@@ -2,7 +2,7 @@
   "name": "Middle Back Shrug",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "middle back"

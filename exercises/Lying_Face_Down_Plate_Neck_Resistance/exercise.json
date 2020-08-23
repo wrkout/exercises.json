@@ -2,7 +2,7 @@
   "name": "Lying Face Down Plate Neck Resistance",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "neck"

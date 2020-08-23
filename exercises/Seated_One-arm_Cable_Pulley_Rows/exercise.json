@@ -2,7 +2,7 @@
   "name": "Seated One-arm Cable Pulley Rows",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "cable",
   "primaryMuscles": [
     "middle back"

@@ -2,7 +2,7 @@
   "name": "Linear Acceleration Wall Drill",
   "force": null,
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": null,
   "primaryMuscles": [
     "hamstrings"

@@ -2,7 +2,7 @@
   "name": "Palms-Up Barbell Wrist Curl Over A Bench",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "barbell",
   "primaryMuscles": [
     "forearms"

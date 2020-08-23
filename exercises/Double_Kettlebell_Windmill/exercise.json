@@ -2,7 +2,7 @@
   "name": "Double Kettlebell Windmill",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "kettlebells",
   "primaryMuscles": [
     "abdominals"

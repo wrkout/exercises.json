@@ -2,11 +2,9 @@
   "name": "Conan's Wheel",
   "force": null,
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
   "secondaryMuscles": [
     "abdominals",
     "biceps",

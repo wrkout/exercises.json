@@ -2,15 +2,10 @@
   "name": "Bench Press - With Bands",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "bands",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders", "triceps"],
   "instructions": [
     "Using a flat bench secure a band under the leg of the bench that is nearest to your head.",
     "Once the band is secure, grab it by both handles and lie down on the bench.",

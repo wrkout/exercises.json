@@ -2,7 +2,7 @@
   "name": "Lying T-Bar Row",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "machine",
   "primaryMuscles": [
     "middle back"

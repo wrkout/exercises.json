@@ -2,16 +2,10 @@
   "name": "Chin-Up",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "lats"
-  ],
-  "secondaryMuscles": [
-    "biceps",
-    "forearms",
-    "middle back"
-  ],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["biceps", "forearms", "middle back"],
   "instructions": [
     "Grab the pull-up bar with the palms facing your torso and a grip closer than the shoulder width.",
     "As you have both arms extended in front of you holding the bar at the chosen grip width, keep your torso as straight as possible while creating a curvature on your lower back and sticking your chest out. This is your starting position. Tip: Keeping the torso as straight as possible maximizes biceps stimulation while minimizing back involvement.",

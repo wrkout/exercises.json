@@ -2,7 +2,7 @@
   "name": "Bottoms-Up Clean From The Hang Position",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "kettlebells",
   "primaryMuscles": [
     "forearms"

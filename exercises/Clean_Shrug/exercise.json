@@ -2,7 +2,7 @@
   "name": "Clean Shrug",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "traps"

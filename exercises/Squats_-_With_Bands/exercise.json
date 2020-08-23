@@ -2,7 +2,7 @@
   "name": "Squats - With Bands",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "bands",
   "primaryMuscles": [
     "quadriceps"

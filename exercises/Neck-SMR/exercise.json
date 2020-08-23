@@ -2,7 +2,7 @@
   "name": "Neck-SMR",
   "force": "static",
   "level": "intermediate",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "other",
   "primaryMuscles": [
     "neck"

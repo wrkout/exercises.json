@@ -2,11 +2,9 @@
   "name": "One Arm Against Wall",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": null,
-  "primaryMuscles": [
-    "lats"
-  ],
+  "primaryMuscles": ["lats"],
   "secondaryMuscles": [],
   "instructions": [
     "From a standing position, place a bent arm against a wall or doorway.",

@@ -2,7 +2,7 @@
   "name": "Kettlebell Sumo High Pull",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "kettlebells",
   "primaryMuscles": [
     "traps"

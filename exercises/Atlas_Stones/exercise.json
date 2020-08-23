@@ -2,11 +2,9 @@
   "name": "Atlas Stones",
   "force": "pull",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "lower back"
-  ],
+  "primaryMuscles": ["lower back"],
   "secondaryMuscles": [
     "abdominals",
     "adductors",

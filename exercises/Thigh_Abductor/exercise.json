@@ -2,7 +2,7 @@
   "name": "Thigh Abductor",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "machine",
   "primaryMuscles": [
     "abductors"

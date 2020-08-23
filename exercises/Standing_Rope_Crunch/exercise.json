@@ -2,7 +2,7 @@
   "name": "Standing Rope Crunch",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
   "primaryMuscles": [
     "abdominals"

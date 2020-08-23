@@ -2,7 +2,7 @@
   "name": "Isometric Neck Exercise - Front And Back",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "body only",
   "primaryMuscles": [
     "neck"

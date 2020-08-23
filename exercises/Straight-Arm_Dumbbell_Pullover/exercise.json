@@ -2,7 +2,7 @@
   "name": "Straight-Arm Dumbbell Pullover",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "chest"

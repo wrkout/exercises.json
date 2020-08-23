@@ -2,7 +2,7 @@
   "name": "Band Assisted Pull-Up",
   "force": null,
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
   "primaryMuscles": [
     "lats"

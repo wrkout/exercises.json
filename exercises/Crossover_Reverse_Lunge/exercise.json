@@ -2,7 +2,7 @@
   "name": "Crossover Reverse Lunge",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": null,
   "primaryMuscles": [
     "lower back"

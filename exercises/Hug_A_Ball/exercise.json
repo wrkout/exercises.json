@@ -2,7 +2,7 @@
   "name": "Hug A Ball",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "exercise ball",
   "primaryMuscles": [
     "lower back"

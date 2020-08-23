@@ -2,11 +2,9 @@
   "name": "Standing Calf Raises",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "machine",
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
   "instructions": [
     "Adjust the padded lever of the calf raise machine to fit your height.",

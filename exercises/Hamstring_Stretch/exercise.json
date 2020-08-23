@@ -2,7 +2,7 @@
   "name": "Hamstring Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": null,
   "primaryMuscles": [
     "hamstrings"

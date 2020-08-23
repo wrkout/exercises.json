@@ -2,7 +2,7 @@
   "name": "On Your Side Quad Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": null,
   "primaryMuscles": [
     "quadriceps"

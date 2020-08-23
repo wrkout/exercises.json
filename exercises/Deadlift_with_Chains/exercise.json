@@ -2,7 +2,7 @@
   "name": "Deadlift with Chains",
   "force": "pull",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "lower back"

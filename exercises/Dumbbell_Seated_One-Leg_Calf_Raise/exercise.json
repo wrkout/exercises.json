@@ -2,7 +2,7 @@
   "name": "Dumbbell Seated One-Leg Calf Raise",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "calves"

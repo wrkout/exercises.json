@@ -2,7 +2,7 @@
   "name": "Smith Machine Hip Raise",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "machine",
   "primaryMuscles": [
     "abdominals"

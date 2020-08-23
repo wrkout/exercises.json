@@ -2,7 +2,7 @@
   "name": "Overhead Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": null,
   "primaryMuscles": [
     "abdominals"

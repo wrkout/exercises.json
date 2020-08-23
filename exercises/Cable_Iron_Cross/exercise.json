@@ -2,11 +2,9 @@
   "name": "Cable Iron Cross",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "chest"
-  ],
+  "primaryMuscles": ["chest"],
   "secondaryMuscles": [],
   "instructions": [
     "Begin by moving the pulleys to the high position, select the resistance to be used, and take a handle in each hand.",

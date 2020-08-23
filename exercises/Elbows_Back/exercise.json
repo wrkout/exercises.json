@@ -2,14 +2,10 @@
   "name": "Elbows Back",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": null,
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "shoulders"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders"],
   "instructions": [
     "Stand up straight.",
     "Place both hands on your lower back, fingers pointing downward and elbows out.",

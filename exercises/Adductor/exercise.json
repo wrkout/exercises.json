@@ -2,7 +2,7 @@
   "name": "Adductor",
   "force": "static",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "foam roll",
   "primaryMuscles": [
     "adductors"

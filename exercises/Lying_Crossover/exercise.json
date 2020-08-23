@@ -2,7 +2,7 @@
   "name": "Lying Crossover",
   "force": "static",
   "level": "expert",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "body only",
   "primaryMuscles": [
     "abductors"

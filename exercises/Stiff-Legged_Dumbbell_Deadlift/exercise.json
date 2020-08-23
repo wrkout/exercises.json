@@ -2,15 +2,10 @@
   "name": "Stiff-Legged Dumbbell Deadlift",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "hamstrings"
-  ],
-  "secondaryMuscles": [
-    "glutes",
-    "lower back"
-  ],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["glutes", "lower back"],
   "instructions": [
     "Grasp a couple of dumbbells holding them by your side at arm's length.",
     "Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.",

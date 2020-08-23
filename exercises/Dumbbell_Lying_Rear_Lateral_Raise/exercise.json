@@ -2,11 +2,9 @@
   "name": "Dumbbell Lying Rear Lateral Raise",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "shoulders"
-  ],
+  "primaryMuscles": ["shoulders"],
   "secondaryMuscles": [],
   "instructions": [
     "While holding a dumbbell in each hand, lay with your chest down on a slightly inclined (around 15 degrees when measured from the floor) adjustable bench.",

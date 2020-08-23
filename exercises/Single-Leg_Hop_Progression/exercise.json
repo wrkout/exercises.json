@@ -2,7 +2,7 @@
   "name": "Single-Leg Hop Progression",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
   "primaryMuscles": [
     "quadriceps"

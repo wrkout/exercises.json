@@ -2,7 +2,7 @@
   "name": "Cable Hammer Curls - Rope Attachment",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
   "primaryMuscles": [
     "biceps"

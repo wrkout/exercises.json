@@ -2,7 +2,7 @@
   "name": "Cable Rope Overhead Triceps Extension",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
   "primaryMuscles": [
     "triceps"

@@ -2,11 +2,9 @@
   "name": "Dumbbell Shrug",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "traps"
-  ],
+  "primaryMuscles": ["traps"],
   "secondaryMuscles": [],
   "instructions": [
     "Stand erect with a dumbbell on each hand (palms facing your torso), arms extended on the sides.",

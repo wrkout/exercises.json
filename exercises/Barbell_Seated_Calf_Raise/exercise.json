@@ -2,11 +2,9 @@
   "name": "Barbell Seated Calf Raise",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
   "instructions": [
     "Place a block about 12 inches in front of a flat bench.",

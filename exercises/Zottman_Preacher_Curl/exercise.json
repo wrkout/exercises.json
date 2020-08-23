@@ -2,7 +2,7 @@
   "name": "Zottman Preacher Curl",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "biceps"

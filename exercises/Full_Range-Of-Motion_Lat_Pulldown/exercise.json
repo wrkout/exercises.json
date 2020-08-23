@@ -2,7 +2,7 @@
   "name": "Full Range-Of-Motion Lat Pulldown",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "cable",
   "primaryMuscles": [
     "lats"

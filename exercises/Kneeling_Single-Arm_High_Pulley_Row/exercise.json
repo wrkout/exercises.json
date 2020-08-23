@@ -2,7 +2,7 @@
   "name": "Kneeling Single-Arm High Pulley Row",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "cable",
   "primaryMuscles": [
     "lats"

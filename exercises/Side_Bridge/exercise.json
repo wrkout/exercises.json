@@ -2,14 +2,10 @@
   "name": "Side Bridge",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "body only",
-  "primaryMuscles": [
-    "abdominals"
-  ],
-  "secondaryMuscles": [
-    "shoulders"
-  ],
+  "primaryMuscles": ["abdominals"],
+  "secondaryMuscles": ["shoulders"],
   "instructions": [],
   "category": "strength"
 }

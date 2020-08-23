@@ -2,7 +2,7 @@
   "name": "Ankle Circles",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": null,
   "primaryMuscles": [
     "calves"

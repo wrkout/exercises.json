@@ -2,7 +2,7 @@
   "name": "Plate Twist",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
   "primaryMuscles": [
     "abdominals"

@@ -2,7 +2,7 @@
   "name": "One Knee To Chest",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": null,
   "primaryMuscles": [
     "glutes"

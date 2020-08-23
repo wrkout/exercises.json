@@ -2,7 +2,7 @@
   "name": "Leverage Chest Press",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "machine",
   "primaryMuscles": [
     "chest"

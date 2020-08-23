@@ -2,7 +2,7 @@
   "name": "Incline Cable Flye",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
   "primaryMuscles": [
     "chest"

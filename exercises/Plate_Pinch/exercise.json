@@ -2,7 +2,7 @@
   "name": "Plate Pinch",
   "force": "static",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "forearms"

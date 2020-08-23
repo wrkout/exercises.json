@@ -2,7 +2,7 @@
   "name": "Seated Barbell Twist",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "barbell",
   "primaryMuscles": [
     "abdominals"

@@ -2,7 +2,7 @@
   "name": "Barbell Shrug",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "barbell",
   "primaryMuscles": [
     "traps"

@@ -2,7 +2,7 @@
   "name": "Smith Machine Reverse Calf Raises",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "machine",
   "primaryMuscles": [
     "calves"

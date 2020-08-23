@@ -2,11 +2,9 @@
   "name": "3/4 Sit-Up",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "abdominals"
-  ],
+  "primaryMuscles": ["abdominals"],
   "secondaryMuscles": [],
   "instructions": [
     "Lie down on the floor and secure your feet. Your legs should be bent at the knees.",

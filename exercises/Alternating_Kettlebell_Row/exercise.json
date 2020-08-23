@@ -2,7 +2,7 @@
   "name": "Alternating Kettlebell Row",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "kettlebells",
   "primaryMuscles": [
     "middle back"

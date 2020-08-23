@@ -2,7 +2,7 @@
   "name": "Pelvic Tilt Into Bridge",
   "force": "static",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": null,
   "primaryMuscles": [
     "lower back"

@@ -2,7 +2,7 @@
   "name": "Ball Leg Curl",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "exercise ball",
   "primaryMuscles": [
     "hamstrings"

@@ -2,7 +2,7 @@
   "name": "Band Hip Adductions",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "bands",
   "primaryMuscles": [
     "adductors"

@@ -2,7 +2,7 @@
   "name": "Leverage Deadlift",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "machine",
   "primaryMuscles": [
     "quadriceps"

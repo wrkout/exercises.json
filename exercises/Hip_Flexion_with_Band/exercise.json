@@ -2,11 +2,9 @@
   "name": "Hip Flexion with Band",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "bands",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
   "secondaryMuscles": [],
   "instructions": [
     "Secure one end of the band to the lower portion of a post and attach the other to one ankle.",

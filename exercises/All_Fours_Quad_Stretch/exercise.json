@@ -2,7 +2,7 @@
   "name": "All Fours Quad Stretch",
   "force": "static",
   "level": "intermediate",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "body only",
   "primaryMuscles": [
     "quadriceps"

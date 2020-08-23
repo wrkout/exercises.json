@@ -2,7 +2,7 @@
   "name": "Palms-Down Dumbbell Wrist Curl Over A Bench",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "forearms"

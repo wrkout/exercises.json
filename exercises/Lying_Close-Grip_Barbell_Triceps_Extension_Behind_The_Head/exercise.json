@@ -2,7 +2,7 @@
   "name": "Lying Close-Grip Barbell Triceps Extension Behind The Head",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "barbell",
   "primaryMuscles": [
     "triceps"

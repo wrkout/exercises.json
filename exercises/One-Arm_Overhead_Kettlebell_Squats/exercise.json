@@ -2,7 +2,7 @@
   "name": "One-Arm Overhead Kettlebell Squats",
   "force": "push",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "kettlebells",
   "primaryMuscles": [
     "quadriceps"

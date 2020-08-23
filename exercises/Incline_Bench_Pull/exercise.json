@@ -2,7 +2,7 @@
   "name": "Incline Bench Pull",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "barbell",
   "primaryMuscles": [
     "middle back"

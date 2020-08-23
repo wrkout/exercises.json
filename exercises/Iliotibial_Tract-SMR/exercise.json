@@ -2,7 +2,7 @@
   "name": "Iliotibial Tract-SMR",
   "force": "static",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "foam roll",
   "primaryMuscles": [
     "abductors"

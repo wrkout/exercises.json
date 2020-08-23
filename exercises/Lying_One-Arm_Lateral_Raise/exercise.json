@@ -2,7 +2,7 @@
   "name": "Lying One-Arm Lateral Raise",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "shoulders"

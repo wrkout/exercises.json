@@ -2,7 +2,7 @@
   "name": "Leg-Up Hamstring Stretch",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": null,
   "primaryMuscles": [
     "hamstrings"

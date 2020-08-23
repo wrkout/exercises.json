@@ -2,7 +2,7 @@
   "name": "Smith Incline Shoulder Raise",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "barbell",
   "primaryMuscles": [
     "shoulders"

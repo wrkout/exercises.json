@@ -2,7 +2,7 @@
   "name": "Flutter Kicks",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "body only",
   "primaryMuscles": [
     "glutes"

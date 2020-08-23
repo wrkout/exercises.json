@@ -2,7 +2,7 @@
   "name": "Single Leg Butt Kick",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "body only",
   "primaryMuscles": [
     "quadriceps"

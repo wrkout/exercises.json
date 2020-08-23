@@ -2,11 +2,9 @@
   "name": "Cable Wrist Curl",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "forearms"
-  ],
+  "primaryMuscles": ["forearms"],
   "secondaryMuscles": [],
   "instructions": [
     "Start out by placing a flat bench in front of a low pulley cable that has a straight bar attachment.",

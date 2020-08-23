@@ -2,7 +2,7 @@
   "name": "Box Squat with Bands",
   "force": "push",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "quadriceps"

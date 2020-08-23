@@ -2,7 +2,7 @@
   "name": "Push Press",
   "force": "push",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "shoulders"

@@ -2,7 +2,7 @@
   "name": "Cable Hip Adduction",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
   "primaryMuscles": [
     "quadriceps"

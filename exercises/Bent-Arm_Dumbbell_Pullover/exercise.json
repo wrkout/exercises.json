@@ -2,16 +2,10 @@
   "name": "Bent-Arm Dumbbell Pullover",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "dumbbell",
-  "primaryMuscles": [
-    "chest"
-  ],
-  "secondaryMuscles": [
-    "lats",
-    "shoulders",
-    "triceps"
-  ],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["lats", "shoulders", "triceps"],
   "instructions": [
     "Place a dumbbell standing up on a flat bench.",
     "Ensuring that the dumbbell stays securely placed at the top of the bench, lie perpendicular to the bench (torso across it as in forming a cross) with only your shoulders lying on the surface. Hips should be below the bench and legs bent with feet firmly on the floor. The head will be off the bench as well.",

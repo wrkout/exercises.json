@@ -2,7 +2,7 @@
   "name": "Sled Drag - Harness",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
   "primaryMuscles": [
     "quadriceps"

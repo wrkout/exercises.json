@@ -2,7 +2,7 @@
   "name": "Rear Leg Raises",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "body only",
   "primaryMuscles": [
     "quadriceps"

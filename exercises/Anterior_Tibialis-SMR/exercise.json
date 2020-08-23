@@ -2,7 +2,7 @@
   "name": "Anterior Tibialis-SMR",
   "force": "static",
   "level": "intermediate",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "other",
   "primaryMuscles": [
     "calves"

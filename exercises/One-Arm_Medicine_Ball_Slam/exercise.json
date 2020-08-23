@@ -2,7 +2,7 @@
   "name": "One-Arm Medicine Ball Slam",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "medicine ball",
   "primaryMuscles": [
     "abdominals"

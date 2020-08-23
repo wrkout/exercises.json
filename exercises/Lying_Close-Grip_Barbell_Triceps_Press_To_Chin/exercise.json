@@ -2,7 +2,7 @@
   "name": "Lying Close-Grip Barbell Triceps Press To Chin",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "e-z curl bar",
   "primaryMuscles": [
     "triceps"

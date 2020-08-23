@@ -2,7 +2,7 @@
   "name": "Standing Hamstring and Calf Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "other",
   "primaryMuscles": [
     "hamstrings"

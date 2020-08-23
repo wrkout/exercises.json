@@ -2,7 +2,7 @@
   "name": "Smith Machine Leg Press",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "machine",
   "primaryMuscles": [
     "quadriceps"

@@ -2,7 +2,7 @@
   "name": "Cable Shoulder Press",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "cable",
   "primaryMuscles": [
     "shoulders"

@@ -2,7 +2,7 @@
   "name": "Dumbbell Lying Supination",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "forearms"

@@ -2,11 +2,9 @@
   "name": "Piriformis-SMR",
   "force": "static",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "foam roll",
-  "primaryMuscles": [
-    "glutes"
-  ],
+  "primaryMuscles": ["glutes"],
   "secondaryMuscles": [],
   "instructions": [
     "Sit with your buttocks on top of a foam roll. Bend your knees, and then cross one leg so that the ankle is over the knee. This will be your starting position.",

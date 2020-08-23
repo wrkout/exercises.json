@@ -2,7 +2,7 @@
   "name": "Monster Walk",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "bands",
   "primaryMuscles": [
     "abductors"

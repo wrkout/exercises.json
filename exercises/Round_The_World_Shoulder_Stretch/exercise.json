@@ -2,7 +2,7 @@
   "name": "Round The World Shoulder Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "other",
   "primaryMuscles": [
     "shoulders"

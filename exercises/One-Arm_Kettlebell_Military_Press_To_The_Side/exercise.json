@@ -2,7 +2,7 @@
   "name": "One-Arm Kettlebell Military Press To The Side",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "kettlebells",
   "primaryMuscles": [
     "shoulders"

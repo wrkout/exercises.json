@@ -2,7 +2,7 @@
   "name": "Wrist Rotations with Straight Bar",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "barbell",
   "primaryMuscles": [
     "forearms"

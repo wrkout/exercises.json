@@ -2,7 +2,7 @@
   "name": "Reverse Barbell Curl",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "barbell",
   "primaryMuscles": [
     "biceps"

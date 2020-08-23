@@ -2,7 +2,7 @@
   "name": "Chest Stretch on Stability Ball",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "exercise ball",
   "primaryMuscles": [
     "chest"

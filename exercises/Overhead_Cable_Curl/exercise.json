@@ -2,7 +2,7 @@
   "name": "Overhead Cable Curl",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
   "primaryMuscles": [
     "biceps"

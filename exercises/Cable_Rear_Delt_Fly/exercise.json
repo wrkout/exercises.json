@@ -2,7 +2,7 @@
   "name": "Cable Rear Delt Fly",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
   "primaryMuscles": [
     "shoulders"

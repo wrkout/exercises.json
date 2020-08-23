@@ -2,7 +2,7 @@
   "name": "Wide-Grip Decline Barbell Pullover",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "chest"

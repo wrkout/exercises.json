@@ -2,11 +2,9 @@
   "name": "Triceps Pushdown",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
   "instructions": [
     "Attach a straight or angled bar to a high pulley and grab with an overhand grip (palms facing down) at shoulder width.",

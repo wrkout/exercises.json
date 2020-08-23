@@ -2,11 +2,9 @@
   "name": "Clean and Jerk",
   "force": "push",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "shoulders"
-  ],
+  "primaryMuscles": ["shoulders"],
   "secondaryMuscles": [
     "abdominals",
     "glutes",

@@ -2,11 +2,9 @@
   "name": "Decline Reverse Crunch",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "body only",
-  "primaryMuscles": [
-    "abdominals"
-  ],
+  "primaryMuscles": ["abdominals"],
   "secondaryMuscles": [],
   "instructions": [
     "Lie on your back on a decline bench and hold on to the top of the bench with both hands. Don't let your body slip down from this position.",

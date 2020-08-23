@@ -2,7 +2,7 @@
   "name": "Tuck Crunch",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "body only",
   "primaryMuscles": [
     "abdominals"

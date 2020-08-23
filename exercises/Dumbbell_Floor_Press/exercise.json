@@ -2,7 +2,7 @@
   "name": "Dumbbell Floor Press",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "triceps"

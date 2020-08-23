@@ -2,7 +2,7 @@
   "name": "Push-Ups With Feet On An Exercise Ball",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "exercise ball",
   "primaryMuscles": [
     "chest"

@@ -2,7 +2,7 @@
   "name": "Moving Claw Series",
   "force": null,
   "level": "beginner",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": null,
   "primaryMuscles": [
     "hamstrings"

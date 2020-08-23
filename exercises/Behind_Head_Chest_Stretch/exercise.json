@@ -2,7 +2,7 @@
   "name": "Behind Head Chest Stretch",
   "force": "static",
   "level": "expert",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "other",
   "primaryMuscles": [
     "chest"

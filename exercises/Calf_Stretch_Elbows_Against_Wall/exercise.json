@@ -2,11 +2,9 @@
   "name": "Calf Stretch Elbows Against Wall",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": null,
-  "primaryMuscles": [
-    "calves"
-  ],
+  "primaryMuscles": ["calves"],
   "secondaryMuscles": [],
   "instructions": [
     "Stand facing a wall from a couple feet away.",

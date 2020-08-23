@@ -2,7 +2,7 @@
   "name": "Upper Back Stretch",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": null,
   "primaryMuscles": [
     "middle back"

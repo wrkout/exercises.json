@@ -2,7 +2,7 @@
   "name": "Yoke Walk",
   "force": null,
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
   "primaryMuscles": [
     "quadriceps"

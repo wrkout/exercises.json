@@ -2,7 +2,7 @@
   "name": "Calves-SMR",
   "force": "static",
   "level": "intermediate",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "foam roll",
   "primaryMuscles": [
     "calves"

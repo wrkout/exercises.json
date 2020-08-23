@@ -2,7 +2,7 @@
   "name": "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
   "primaryMuscles": [
     "forearms"

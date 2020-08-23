@@ -2,7 +2,7 @@
   "name": "Sumo Deadlift",
   "force": "pull",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
   "primaryMuscles": [
     "hamstrings"

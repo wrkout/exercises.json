@@ -2,7 +2,7 @@
   "name": "Shoulder Circles",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": null,
   "primaryMuscles": [
     "shoulders"

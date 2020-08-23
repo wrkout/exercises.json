@@ -2,7 +2,7 @@
   "name": "Dumbbell Side Bend",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "abdominals"

@@ -2,7 +2,7 @@
   "name": "Front Cable Raise",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
   "primaryMuscles": [
     "shoulders"

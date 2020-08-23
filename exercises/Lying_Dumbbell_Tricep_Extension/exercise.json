@@ -2,7 +2,7 @@
   "name": "Lying Dumbbell Tricep Extension",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "triceps"

@@ -2,7 +2,7 @@
   "name": "Smith Machine Behind the Back Shrug",
   "force": "pull",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "machine",
   "primaryMuscles": [
     "traps"

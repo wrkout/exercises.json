@@ -2,11 +2,9 @@
   "name": "Body Tricep Press",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": [
-    "triceps"
-  ],
+  "primaryMuscles": ["triceps"],
   "secondaryMuscles": [],
   "instructions": [
     "Position a bar in a rack at chest height.",

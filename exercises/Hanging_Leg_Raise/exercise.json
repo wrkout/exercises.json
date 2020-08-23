@@ -2,7 +2,7 @@
   "name": "Hanging Leg Raise",
   "force": "pull",
   "level": "expert",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "body only",
   "primaryMuscles": [
     "abdominals"

@@ -2,7 +2,7 @@
   "name": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "dumbbell",
   "primaryMuscles": [
     "triceps"

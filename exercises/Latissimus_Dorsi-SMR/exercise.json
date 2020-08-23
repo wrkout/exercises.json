@@ -2,7 +2,7 @@
   "name": "Latissimus Dorsi-SMR",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "foam roll",
   "primaryMuscles": [
     "lats"

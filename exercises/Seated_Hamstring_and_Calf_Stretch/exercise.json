@@ -2,7 +2,7 @@
   "name": "Seated Hamstring and Calf Stretch",
   "force": "static",
   "level": "intermediate",
-  "mechanicsType": null,
+  "mechanic": null,
   "equipment": "other",
   "primaryMuscles": [
     "hamstrings"

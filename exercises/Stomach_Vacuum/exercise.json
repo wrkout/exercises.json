@@ -2,11 +2,9 @@
   "name": "Stomach Vacuum",
   "force": "static",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "body only",
-  "primaryMuscles": [
-    "abdominals"
-  ],
+  "primaryMuscles": ["abdominals"],
   "secondaryMuscles": [],
   "instructions": [
     "To begin, stand straight with your feet shoulder width apart from each other. Place your hands on your hips. This is the starting position.",

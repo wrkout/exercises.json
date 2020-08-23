@@ -2,11 +2,9 @@
   "name": "Squat with Chains",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "barbell",
-  "primaryMuscles": [
-    "quadriceps"
-  ],
+  "primaryMuscles": ["quadriceps"],
   "secondaryMuscles": [
     "adductors",
     "calves",

@@ -2,7 +2,7 @@
   "name": "Leg Extensions",
   "force": "push",
   "level": "beginner",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "machine",
   "primaryMuscles": [
     "quadriceps"

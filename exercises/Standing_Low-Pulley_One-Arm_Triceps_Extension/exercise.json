@@ -2,7 +2,7 @@
   "name": "Standing Low-Pulley One-Arm Triceps Extension",
   "force": "push",
   "level": "intermediate",
-  "mechanicsType": "isolation",
+  "mechanic": "isolation",
   "equipment": "cable",
   "primaryMuscles": [
     "triceps"

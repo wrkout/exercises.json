@@ -2,11 +2,9 @@
   "name": "Circus Bell",
   "force": "push",
   "level": "expert",
-  "mechanicsType": "compound",
+  "mechanic": "compound",
   "equipment": "other",
-  "primaryMuscles": [
-    "shoulders"
-  ],
+  "primaryMuscles": ["shoulders"],
   "secondaryMuscles": [
     "forearms",
     "glutes",
