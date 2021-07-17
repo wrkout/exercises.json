@@ -1,12 +1,12 @@
 // npm run build:psql <db.name> | 'exercises';
 
-import { readdirSync, Dirent, writeFileSync } from "fs";
+import { writeFileSync } from "fs";
 import { EOL } from "os";
-import { resolve } from "path";
 import { v4 as uuid } from "uuid";
 import knex from "knex";
 import snakecase from "lodash.snakecase";
 import { Exercise } from "../types/exercise";
+import { getDirectories, getExercises } from "./builders";
 
 const psql = knex({
   client: "pg",
@@ -14,22 +14,6 @@ const psql = knex({
 });
 
 const tableName = process.argv[2] || "exercises";
-
-//
-const getDirectories = (folder: string): Array<Dirent> => {
-  const subFolders = readdirSync(folder, {
-    withFileTypes: true,
-  }).filter((dir) => dir.isDirectory());
-
-  return subFolders;
-};
-
-const getExercises = (directories: Array<Dirent>): Array<Exercise> => {
-  return directories.map((dir) => {
-    const exercisePath = resolve(`./exercises/${dir.name}/exercise.json`);
-    return require(exercisePath);
-  });
-};
 
 const createPostgresEnum = (
   exercises: Array<Exercise>,
