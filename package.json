@@ -10,7 +10,8 @@
     "lint": "eslint . --ext .ts --quiet",
     "test": "jest",
     "build:json": "ts-node scripts/json-builder.ts",
-    "build:psql": "ts-node scripts/psql-builder.ts"
+    "build:psql": "ts-node scripts/psql-builder.ts",
+    "build:sqlite3": "ts-node scripts/sqlite3-builder.ts"
   },
   "keywords": [
     "exercise",
