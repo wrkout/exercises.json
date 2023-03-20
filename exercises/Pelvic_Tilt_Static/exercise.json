@@ -1,0 +1,15 @@
+{
+  "name": "Pelvic Tilt Static",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [],
+  "category": "strength"
+}

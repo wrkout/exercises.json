@@ -1,0 +1,11 @@
+{
+  "name": "Leg Press Single Leg",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "instructions": [],
+  "category": "strength"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Seated Cable Rows - Wide Grip",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [],
+  "category": "strength"
+}

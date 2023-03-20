@@ -1,0 +1,13 @@
+{
+  "name": "Cable Reverse Flyes",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [],
+  "category": "strength"
+}

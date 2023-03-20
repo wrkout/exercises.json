@@ -1,0 +1,13 @@
+{
+  "name": "Lateral Raise Machine",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [],
+  "category": "strength"
+}

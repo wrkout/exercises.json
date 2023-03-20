@@ -1,0 +1,15 @@
+{
+  "name": "Glute Kickback Machine",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [],
+  "category": "strength"
+}

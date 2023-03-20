@@ -1,0 +1,15 @@
+{
+  "name": "Hip Thrust Machine",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [],
+  "category": "powerlifting"
+}

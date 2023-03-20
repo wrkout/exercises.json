@@ -1,0 +1,13 @@
+{
+  "name": "Cable Triceps Kickback",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [],
+  "category": "strength"
+}

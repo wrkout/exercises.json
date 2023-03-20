@@ -1,0 +1,16 @@
+{
+  "name": "Cable Lateral Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "traps"
+  ],
+  "instructions": [],
+  "category": "strength"
+}
