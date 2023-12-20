@@ -10,6 +10,7 @@
     "lint": "eslint . --ext .ts --quiet",
     "test": "jest",
     "build:json": "ts-node scripts/json-builder.ts",
+    "build:upload": "ts-node scripts/upload.ts",
     "build:psql": "ts-node scripts/psql-builder.ts"
   },
   "keywords": [
@@ -44,6 +45,7 @@
     "typescript": "^4.0.2"
   },
   "dependencies": {
+    "@google-cloud/storage": "^7.7.0",
     "knex": "^0.21.5",
     "lodash.snakecase": "^4.1.1",
     "uuid": "^8.3.0"

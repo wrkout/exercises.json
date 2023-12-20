@@ -1,5 +1,5 @@
 import { readdirSync, Dirent, writeFileSync } from "fs";
-import { resolve } from "path";
+import { resolve, join } from "path";
 import { Exercise } from "../types/exercise";
 
 const getDirectories = (folder: string): Array<Dirent> => {
@@ -13,7 +13,13 @@ const getDirectories = (folder: string): Array<Dirent> => {
 const getExercises = (directories: Array<Dirent>): Array<Exercise> => {
   return directories.map((dir) => {
     const exercisePath = resolve(`./exercises/${dir.name}/exercise.json`);
-    return require(exercisePath);
+    const imagesFolderPath = resolve(`./exercises/${dir.name}/images/`);
+    const imageFiles = readdirSync(imagesFolderPath).map((file) =>
+      join(imagesFolderPath, file)
+    ); // Get paths for all images
+    const exercise = require(exercisePath);
+    exercise.imagePaths = imageFiles; // Add the image paths array to the exercise object
+    return exercise;
   });
 };
 
