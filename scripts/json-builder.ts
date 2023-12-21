@@ -1,5 +1,5 @@
 import { readdirSync, Dirent, writeFileSync } from "fs";
-import { resolve, join } from "path";
+import { resolve } from "path";
 import { Exercise } from "../types/exercise";
 import { createHash } from "crypto";
 import version from "../version-control.json";

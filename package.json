@@ -11,8 +11,9 @@
     "test": "jest",
     "build:json": "ts-node scripts/json-builder.ts",
     "build:upload": "ts-node scripts/upload.ts",
-    "validate": "ts-node scripts/validator.ts",
-    "build:psql": "ts-node scripts/psql-builder.ts"
+    "run:validation": "ts-node scripts/validator.ts",
+    "build:psql": "ts-node scripts/psql-builder.ts",
+    "validate": "npm run build:json && npm run run:validation"
   },
   "keywords": [
     "exercise",
