@@ -2,7 +2,7 @@ import * as Yup from "yup";
 import exercises from "../exercises.json";
 import version from "../version-control.json";
 
-const URL_VALIDATOR = /^https?:\/\/[a-zA-Z0-9/:.()_-]+\.(jpg|jpeg|png)$/;
+const URL_VALIDATOR = /^https?:\/\/[a-zA-Z0-9/:._-]+\.(jpg|jpeg|png)$/;
 const VALID_STRING = /^[a-zA-Z0-9\s'.,/ ():\-;]+$/;
 
 function basicStrValidation(fieldName: string) {
