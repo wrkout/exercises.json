@@ -44,7 +44,7 @@
     "typescript": "^4.0.2"
   },
   "dependencies": {
-    "knex": "^0.21.5",
+    "knex": "^2.4.2",
     "lodash.snakecase": "^4.1.1",
     "uuid": "^8.3.0"
   }
