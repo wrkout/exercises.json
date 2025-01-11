@@ -1,21 +1,6 @@
-import { readdirSync, Dirent, writeFileSync } from "fs";
-import { resolve } from "path";
+import { writeFileSync } from "fs";
 import { Exercise } from "../types/exercise";
-
-const getDirectories = (folder: string): Array<Dirent> => {
-  const subFolders = readdirSync(folder, {
-    withFileTypes: true,
-  }).filter((dir) => dir.isDirectory());
-
-  return subFolders;
-};
-
-const getExercises = (directories: Array<Dirent>): Array<Exercise> => {
-  return directories.map((dir) => {
-    const exercisePath = resolve(`./exercises/${dir.name}/exercise.json`);
-    return require(exercisePath);
-  });
-};
+import { getDirectories, getExercises } from "./builders";
 
 const createJSONFile = (exercises: Array<Exercise>) => {
   writeFileSync(

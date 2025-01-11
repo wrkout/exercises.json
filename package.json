@@ -10,7 +10,8 @@
     "lint": "eslint . --ext .ts --quiet",
     "test": "jest",
     "build:json": "ts-node scripts/json-builder.ts",
-    "build:psql": "ts-node scripts/psql-builder.ts"
+    "build:psql": "ts-node scripts/psql-builder.ts",
+    "build:sqlite3": "ts-node scripts/sqlite3-builder.ts"
   },
   "keywords": [
     "exercise",
@@ -46,6 +47,7 @@
   "dependencies": {
     "knex": "^0.21.5",
     "lodash.snakecase": "^4.1.1",
+    "sqlite3": "^5.0.2",
     "uuid": "^8.3.0"
   }
 }
