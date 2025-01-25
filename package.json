@@ -10,7 +10,8 @@
     "lint": "eslint . --ext .ts --quiet",
     "test": "jest",
     "build:json": "ts-node scripts/json-builder.ts",
-    "build:psql": "ts-node scripts/psql-builder.ts"
+    "build:psql": "ts-node scripts/psql-builder.ts",
+    "build:mysql": "ts-node scripts/mysql-builder.ts"
   },
   "keywords": [
     "exercise",
@@ -28,7 +29,7 @@
     "@types/jest": "^26.0.10",
     "@types/lodash": "^4.14.159",
     "@types/lodash.snakecase": "^4.1.6",
-    "@types/node": "^14.6.1",
+    "@types/node": "^14.18.63",
     "@types/uuid": "^8.3.0",
     "@typescript-eslint/eslint-plugin": "^3.10.1",
     "@typescript-eslint/parser": "^3.10.1",
@@ -40,8 +41,8 @@
     "prettier": "^2.1.2",
     "request": "^2.88.2",
     "ts-jest": "^26.3.0",
-    "ts-node": "^9.0.0",
-    "typescript": "^4.0.2"
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
   },
   "dependencies": {
     "knex": "^0.21.5",
