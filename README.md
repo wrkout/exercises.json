@@ -12,6 +12,13 @@ My hope is that this repo changes that. l want to create a complete and extensiv
 
 Contributions are wanted, as l know this will be too much to undertake by any one person, so please visit the [contributing guidelines](https://github.com/wrkout/exercises.json/blob/master/CONTRIBUTING.md)
 
+## Commerical Projects?
+
+If you are looking for a complete dataset with over 2,500+ exercises, 10,000+ images (showing muscles worked), and 3,500+ videos (showing muscles worked), which can be used in commerical projects:
+
+[https://wrkout.xyz/](https://wrkout.xyz/)
+
+
 ## Scripts
 
 1. `npm run build:json` - creates a JSON file with all exercises
