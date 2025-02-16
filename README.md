@@ -23,6 +23,7 @@ If you are looking for a complete dataset with over 2,500+ exercises, 10,000+ im
 
 1. `npm run build:json` - creates a JSON file with all exercises
 2. `npm run build:psql` - creates a SQL file for PostgreSQL to load all exercises in
+3. `npm run build:mysql` - creates a SQL file for MySQL to load all exercises in
 
 ## Public JSON API Service
 
@@ -48,6 +49,14 @@ $ npm run build:psql -- <table name>
 ```
 
 This builds an `exercises-psql.sql` file which creates and inserts all exercises into a PostgreSQL database.
+
+## Generate `data.sql`
+
+```shell
+$ npm run build:mysql
+```
+
+This builds a `data.sql` file which creates and inserts all exercises into a MySQL database.
 
 ## Maintainers
 

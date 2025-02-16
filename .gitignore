@@ -4,3 +4,4 @@ npm-debug.log
 .vscode
 exercises.json
 exercises-psql.sql
+data.sql
